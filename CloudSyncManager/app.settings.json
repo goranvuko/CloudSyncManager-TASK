@@ -1,0 +1,10 @@
+﻿{
+	"AzureStorageConnectionString": "UseDevelopmentStorage=true",
+	"LocalStorage": "C:\\Users\\Goran Vukojičić\\Desktop\\cloudSyncManager-TASK\\LOCAL_STORAGE",
+	"VideoContainer": "video-container",
+	"AudioContainer": "audio-container",
+	"PdfContainer": "pdf-container",
+	"PdfSupportedExtensions": ".pdf",
+	"AudioSupportedExtensions": ".mp3",
+	"VideoSupportedExtensions": ".avi .mp4"
+}
